@@ -1,5 +1,9 @@
-# not-so-funny-nickname-generator
+# Not-so-funny-nickname-generator
 Your jokes aren't as funny as you think they are.
+
+Are you a comedian? Or maybe you're the funny guy in the office? The class clown? You give everybody a nickname "as a joke". You think you're hilarious! Maybe it's time to take into account what those nicknames sound like to everybody else. 
+
+Press enter to come up with a new nickmane. Press n to exit.
 
     import sys, random
 
